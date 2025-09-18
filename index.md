@@ -72,3 +72,10 @@ layout: default
 　　设备检查别偷懒：出国前用Speedtest测频段兼容性。话说盐岛某处信号塔藏在仙人掌丛里，地图标错位置——这类细节连本地人都懵。你要是计划去沉船潜水点，提前问潜店借卫星电话更实在。
 
 　　归根结底，选卡逻辑就一句：短期游闭眼eSIM，长期住挑LIME稳字当头。2025年通信成本可控，但信息差仍是隐形刺客。下次出发前，不妨花十分钟设好APN——省下的焦虑，够你多喝三杯椰林飘香！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Turks And Caicos Islands eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/turks-and-caicos-islands-data-plans)
